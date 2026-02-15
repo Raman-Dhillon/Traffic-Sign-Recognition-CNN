@@ -2,8 +2,8 @@ Streamlit
 Link: https://traffic-sign-recognition-web-app-kcgje9uljmwdmwuesqfjng.streamlit.app/
 GitHub
 Link: https://github.com/Raman-Dhillon/Traffic-Sign-Recognition-CNN
-
 Dataset
 Link: https://www.kaggle.com/code/codingloading/gtsrb-traffic-sign-recognition-cnn-97
+
 
 
